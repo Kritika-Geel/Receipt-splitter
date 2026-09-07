@@ -49,7 +49,7 @@ receipt-splitter/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/receipt-splitter.git
+git clone https://github.com/Kritika-Geel/receipt-splitter.git
 cd receipt-splitter
 
 ```
